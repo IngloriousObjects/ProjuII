@@ -1,1 +1,3 @@
-STASH täällä on tekstiä
+
+STASH täällä on tekstiä, PAIKALLINEN NIINPÄ ONKIN
+
