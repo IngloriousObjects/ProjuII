@@ -13,4 +13,10 @@ Sovelluksessa on alkuvaiheessa ainoastaan yksi käyttäjätyyppi eli normaali k�
 ### Kirjautuminen / Rekisteröityminen
 
 * Sovellus aukeaa kirjautumisnäkymään, josta käyttäjä voi kirjautua sisään järjestelmään käyttäjänimellään ja salasanallaan. Mikäli käyttäjällä ei vielä ole luotuna tunnuksia, aloitusnäytöstä siirrytään rekisteröintinäkymään valitsemalla ‘luo tunnus’.
-  * Rekisteröintinäkymässä käyttäjä luo tunnukset antamalla uniikin käyttäjänimen (vähintään 4 merkkiä) ja salasanan (vähintään 8 merkkiä)     ja valitsemalla ‘valmis’. Tästä siirrytään takaisin kirjautumisnäkymään
+  * Rekisteröintinäkymässä käyttäjä luo tunnukset antamalla uniikin käyttäjänimen (vähintään 4 merkkiä) ja salasanan (vähintään 8 merkkiä)     ja valitsemalla ‘valmis’. Tästä siirrytään takaisin kirjautumisnäkymään.
+  
+### Järjestelmässä
+
+* Järjestelmän päänäkymässä käyttäjä voi:
+ * lisätä uuden tapahtuman
+  * päänäkymästä siirrytään tapahtumanäkymään ja lisäyksen ((pvm, tyyppi(meno/tulo), summa, kategoria, kuvaus) jälkeen takaisin           päänäkymään
