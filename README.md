@@ -2,18 +2,18 @@
 
 ## Sovelluksen tarkoitus
 
-MassiMatti on henkilökohtaisen talouden seurantaan tarkoitettu sovellus, jonka avulla käyttäjä voi pitää kirjaa menoistaan ja tuloistaan sekä tarkastella kirjaamiaan tapahtumia tapahtumia valitsemallaan ajanjaksolla niin teksimuodossa kuin graafisestikin. Sovellukseen voi rekisteröityä useampi käyttäjä.
+MassiMatti on henkilökohtaisen talouden seurantaan tarkoitettu sovellus, jonka avulla käyttäjä voi pitää kirjaa menoistaan ja tuloistaan sekä tarkastella kirjaamiaan tapahtumia valitsemallaan ajanjaksolla niin tekstimuodossa kuin graafisestikin. Sovellukseen voi rekisteröityä useampi käyttäjä, jotka voivat lisätä ja seurata omia tapahtumiaan.
 
 ## Käyttäjät
 
-Sovelluksessa on alkuvaiheessa ainoastaan yksi käyttäjätyyppi eli normaali käyttäjä. Jatkossa sovellukseen mahdollisesti lisätään pääkäyttäjä asianomaisin oikeuksin.
+Sovelluksessa on alkuvaiheessa ainoastaan yksi käyttäjätyyppi eli normaali käyttäjä. Jatkossa sovellukseen mahdollisesti lisätään pääkäyttäjä laajemmin oikeuksin.
 
 ## Suunnitellut toiminnallisuudet
 
 ### Kirjautuminen / Rekisteröityminen
 
-* Sovellus aukeaa kirjautumisnäkymään, josta käyttäjä voi kirjautua sisään järjestelmään käyttäjänimellään ja salasanallaan. Mikäli käyttäjällä ei vielä ole luotuna tunnuksia, aloitusnäytöstä siirrytään rekisteröintinäkymään valitsemalla ‘luo tunnus’.
-  * Rekisteröintinäkymässä käyttäjä luo tunnukset antamalla uniikin käyttäjänimen (vähintään 4 merkkiä) ja salasanan (vähintään 8 merkkiä)     ja valitsemalla ‘valmis’. Tästä siirrytään takaisin kirjautumisnäkymään.
+* Sovellus aukeaa kirjautumisnäkymään, josta käyttäjä voi kirjautua sisään järjestelmään käyttäjänimellään ja salasanallaan. Mikäli käyttäjällä ei vielä ole luotuna tunnuksia, kirjautumisnäkymästä siirrytään painikkeella rekisteröintinäkymään 
+  * Rekisteröintinäkymässä käyttäjä luo tunnukset antamalla uniikin käyttäjänimen (vähintään 4 merkkiä) ja salasanan (vähintään 8 merkkiä). Painikkeella tiedot talletetaan ja siirrytään takaisin kirjautumisnäkymään
   
 ### Järjestelmässä
 
@@ -37,4 +37,5 @@ Järjestelmän päänäkymässä käyttäjä voi:
    * Lisätään pääkäyttäjä, joka voi mm. hallita ja siivota tietokantaa
    * Parantaa kirjautumisen tietoturvaa. Nyt kirjautuminen tarkoitus toteuttaa vain kosmeettisena
    * Esittää dataa monipuolisemmin
-   * Luoda käyttäjälle mahdollisuuden asettaa taloudellisia tavoitteita, jolloin sovellus on muokattavissa enemmän budjettisovellusta vastaavaksi pelkän taloudellisen seurannan sijaan.
+   * Luoda käyttäjälle mahdollisuus asettaa taloudellisia tavoitteita, jolloin sovellus on muokattavissa enemmän budjettisovellusta vastaavaksi pelkän taloudellisen seurannan sijaan.
+   * Laajentaa tietokantaa, sillä nyt esim. käyttäjät lisäävät ja käyttävät yhteisiä kategorioita
