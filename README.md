@@ -32,9 +32,9 @@ Järjestelmän päänäkymässä käyttäjä voi:
     * päänäkymästä siirrytään kuukausitason tarkastelunäkymään, jossa valitaan ajanjakso, jonka peruteella uuteen näkymään piirretään ryhmitelty pylväskaavio tulot ja menot palkein, jossa x-akseli kuvaa aikaa ja y-akseli euromäärää. Kaavionäkymä suljetaan painikkeella
     * paluu päänäkymään
     
-### Jatkokehitysmahdollisuudet
+ ### Jatkokehitysmahdollisuudet
     
-    * Lisätään pääkäyttäjä, joka voi mm. hallita ja siivota tietokantaa
-    * Parantaa kirjautumisen tietoturvaa. Nyt kirjautuminen tarkoitus toteuttaa vain kosmeettisena
-    * Esittää dataa monipuolisemmin
-    * Luoda käyttäjälle mahdollisuuden asettaa taloudellisia tavoitteita, jolloin sovellus on muokattavissa enemmän budjettisovellusta vastaavaksi pelkän taloudellisen seurannan sijaan.
+   * Lisätään pääkäyttäjä, joka voi mm. hallita ja siivota tietokantaa
+   * Parantaa kirjautumisen tietoturvaa. Nyt kirjautuminen tarkoitus toteuttaa vain kosmeettisena
+   * Esittää dataa monipuolisemmin
+   * Luoda käyttäjälle mahdollisuuden asettaa taloudellisia tavoitteita, jolloin sovellus on muokattavissa enemmän budjettisovellusta vastaavaksi pelkän taloudellisen seurannan sijaan.
