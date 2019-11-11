@@ -26,5 +26,15 @@ Järjestelmän päänäkymässä käyttäjä voi:
     * päänäkymästä siirrytään listausnäkymään, jossa valitaan ajanjakso, jonka perusteella listataan tulot ja menot vanhimmasta uusimpaan  sekä ilmoitetaan niiden erotus erillisessä tulosnäkymässä, joka suljetaan painikkeella
     * paluu päänäkymään
   * Tarkastella tuloja ja menoja kategorioittain
-    * päänäkymästä siirrytään kategorian tarkastelunäkymään, jossa valitaan ajanjakso, jonka perusteella uuteen näkymään piirretään pylväskaavio, jossa x-akselilla on kategoriat ja y-akselilla euromäärät. Näkymä suljetaan painikkeella.
+    * päänäkymästä siirrytään kategorian tarkastelunäkymään, jossa valitaan ajanjakso, jonka perusteella uuteen näkymään piirretään pylväskaavio, jossa x-akselilla on kategoriat ja y-akselilla euromäärät. Kaavionäkymä suljetaan painikkeella.
     * paluu päänäkymään
+ * Tarkastella tuloja ja menoja kuukausitasolla
+    * päänäkymästä siirrytään kuukausitason tarkastelunäkymään, jossa valitaan ajanjakso, jonka peruteella uuteen näkymään piirretään ryhmitelty pylväskaavio tulot ja menot palkein, jossa x-akseli kuvaa aikaa ja y-akseli euromäärää. Kaavionäkymä suljetaan painikkeella
+    * paluu päänäkymään
+    
+    ### Jatkokehitysmahdollisuudet
+    
+    * Lisätään pääkäyttäjä, joka voi mm. hallita ja siivota tietokantaa
+    * Parantaa kirjautumisen tietoturvaa. Nyt kirjautuminen tarkoitus toteuttaa vain kosmeettisena
+    * Esittää dataa monipuolisemmin
+    * Luoda käyttäjälle mahdollisuuden asettaa taloudellisia tavoitteita, jolloin sovellus on muokattavissa enemmän budjettisovellusta vastaavaksi pelkän taloudellisen seurannan sijaan.
