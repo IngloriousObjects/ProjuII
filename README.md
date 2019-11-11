@@ -18,5 +18,5 @@ Sovelluksessa on alkuvaiheessa ainoastaan yksi käyttäjätyyppi eli normaali k�
 ### Järjestelmässä
 
 * Järjestelmän päänäkymässä käyttäjä voi:
- * lisätä uuden tapahtuman
-  * päänäkymästä siirrytään tapahtumanäkymään ja lisäyksen ((pvm, tyyppi(meno/tulo), summa, kategoria, kuvaus) jälkeen takaisin           päänäkymään
+  * lisätä uuden tapahtuman
+    * päänäkymästä siirrytään tapahtumanäkymään ja lisäyksen ((pvm, tyyppi(meno/tulo), summa, kategoria, kuvaus) jälkeen takaisin           päänäkymään
