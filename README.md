@@ -34,8 +34,8 @@ Järjestelmän päänäkymässä käyttäjä voi:
     
  ## Jatkokehitysmahdollisuudet
     
-   * Lisätään pääkäyttäjä, joka voi mm. hallita ja siivota tietokantaa
-   * Parantaa kirjautumisen tietoturvaa. Nyt kirjautuminen tarkoitus toteuttaa vain kosmeettisena
-   * Esittää dataa monipuolisemmin
-   * Luoda käyttäjälle mahdollisuus asettaa taloudellisia tavoitteita, jolloin sovellus on muokattavissa enemmän budjettisovellusta vastaavaksi pelkän taloudellisen seurannan sijaan.
-   * Laajentaa tietokantaa, sillä nyt esim. käyttäjät lisäävät ja käyttävät yhteisiä kategorioita
+   * Pääkäyttäjän, joka voi mm. hallita ja siivota tietokantaa laajemmilla oikeuksilla, lisääminen
+   * Sisäänkirjautumisen tietoturvan parantaminen. Nyt kirjautuminen on tarkoitus toteuttaa vain kosmeettisesti
+   * Dataa voidaan esittää monipuolisemmin
+   * Käyttäjälle mahdollisuus asettaa sovellukseen taloudellisia tavoitteita, jolloin sovellus on muokattavissa enemmän budjettisovellusta vastaavaksi pelkän taloudellisen seurannan sijaan.
+   * Tietokannan skeeman laajentaminen, sillä nyt esim. käyttäjät lisäävät ja käyttävät yhteisiä kategorioita
